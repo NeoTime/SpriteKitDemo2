@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		94A7B8DE2252879F00864024 /* MyFirstTileMapScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 94A7B8DD2252879E00864024 /* MyFirstTileMapScene.sks */; };
 		94A7B8E02252904B00864024 /* MyFirstTileSet.sks in Resources */ = {isa = PBXBuildFile; fileRef = 94A7B8DF2252904B00864024 /* MyFirstTileSet.sks */; };
+		94A7B8E22252A02200864024 /* SpriteKitButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A7B8E12252A02200864024 /* SpriteKitButton.swift */; };
 		94C3EDC52250593400EE2B34 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C3EDC42250593400EE2B34 /* AppDelegate.swift */; };
 		94C3EDCB2250593400EE2B34 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C3EDCA2250593400EE2B34 /* GameScene.swift */; };
 		94C3EDCD2250593400EE2B34 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C3EDCC2250593400EE2B34 /* GameViewController.swift */; };
@@ -39,6 +40,7 @@
 /* Begin PBXFileReference section */
 		94A7B8DD2252879E00864024 /* MyFirstTileMapScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyFirstTileMapScene.sks; sourceTree = "<group>"; };
 		94A7B8DF2252904B00864024 /* MyFirstTileSet.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyFirstTileSet.sks; sourceTree = "<group>"; };
+		94A7B8E12252A02200864024 /* SpriteKitButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpriteKitButton.swift; sourceTree = "<group>"; };
 		94C3EDC12250593400EE2B34 /* SpriteKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpriteKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94C3EDC42250593400EE2B34 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94C3EDCA2250593400EE2B34 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				94C3EDD62250593700EE2B34 /* Info.plist */,
 				94A7B8DD2252879E00864024 /* MyFirstTileMapScene.sks */,
 				94A7B8DF2252904B00864024 /* MyFirstTileSet.sks */,
+				94A7B8E12252A02200864024 /* SpriteKitButton.swift */,
 			);
 			path = SpriteKitDemo;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				94C3EDCB2250593400EE2B34 /* GameScene.swift in Sources */,
 				94C3EDCD2250593400EE2B34 /* GameViewController.swift in Sources */,
 				94C3EDC52250593400EE2B34 /* AppDelegate.swift in Sources */,
+				94A7B8E22252A02200864024 /* SpriteKitButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
